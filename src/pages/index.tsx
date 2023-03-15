@@ -60,12 +60,12 @@ export default function Home(): JSX.Element {
         <div className="home-page__presentation">
           <div className="home-page__description">
             <h1 className="home-page__title">
-              Hi, I&apos;m Younes Lahouiti{" "}
+              Hi, I&apos;m Ruben Edery{" "}
               <span className="home-page__title-hand">🖐</span>
             </h1>
             <h2 className="home-page__subtitle">Fullstack developer</h2>
             <p className="home-page__paragraph">
-              I&apos;m Younes Lahouiti, a web developer with a passion for
+              I&apos;m Ruben Edery, a web developer with a passion for
               creating beautiful and functional websites. I have strong
               problem-solving skills and a keen eye for detail, allowing me to
               create websites that look great and perform well. Let&apos;s bring
